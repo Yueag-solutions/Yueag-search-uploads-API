@@ -6,7 +6,7 @@ Copiez le code de "add.php" et enregistrez-le dans votre espace de développemen
 
 Ouvrez le fichier "add.php".
 
-Entrez la clé d'accès "<font color="red">8QjLN3TfnSnA998P6rHbEwBviMsn6G2B3V59ik3JSs3BRnh778Y2ie92MfBt679G3mbbzA6PXhLq3cuf78wDsWU482x4S5D6Lq9U</font>". Cette clé est nécessaire pour accéder à la plateforme d'upload.
+Entrez la clé d'accès "<font color="#008000">8QjLN3TfnSnA998P6rHbEwBviMsn6G2B3V59ik3JSs3BRnh778Y2ie92MfBt679G3mbbzA6PXhLq3cuf78wDsWU482x4S5D6Lq9U</font>". Cette clé est nécessaire pour accéder à la plateforme d'upload.
 
 Cliquez sur le bouton "choisir un fichier" à côté du champ "Envoyer" pour sélectionner le fichier que vous souhaitez uploader. Assurez-vous que le fichier ne dépasse pas la taille maximale autorisée.
 
