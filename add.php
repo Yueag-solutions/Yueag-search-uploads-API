@@ -59,7 +59,6 @@
   </style>
   <meta charset="utf-8">
   <title>Upload de fichier avec clé d'accès</title>
-
 </head>
 <body>
   <form action="https://yueag-solutions.000webhostapp.com/search/add.php" method="post" enctype="multipart/form-data">
